@@ -1,5 +1,5 @@
 # Invisibility-Cloak-OpenCV
-<img src="invisible_man.png" alt="Invisible Man" width="500" />
+<img src="invisible_man.png" alt="Invisible Man" width="200" />
 
 
 This project demonstrates the creation of an invisibility cloak effect using OpenCV and Python. By utilizing HSV color space, masking techniques, and real-time video processing, it replaces a specific color in the video frame with the background, creating a magical "invisible" effect.
